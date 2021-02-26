@@ -30,7 +30,7 @@ std::string convert(std::string s, int numRows) {
     return ans;
 }
 
-// PINALSIGYAHRPI
+// Output: PINALSIGYAHRPI
 int main(){
     std::string ans = convert("PAYPALISHIRING", 4);
     std::cout << ans << std::endl;
