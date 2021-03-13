@@ -10,3 +10,4 @@
 |50|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle II</a>|CPP
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
+|705|Design HashSet|CPP|
