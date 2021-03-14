@@ -12,3 +12,4 @@
 |119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle II</a>|CPP
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashSet.cpp">Design HashSet</a>|CPP|
+|706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashMap.cpp">Design HashMap</a>|CPP|
