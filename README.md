@@ -11,7 +11,8 @@
 |49|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
-|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle II</a>|CPP
+|59|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
+|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle II</a>|CPP|
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashMap.cpp">Design HashMap</a>|CPP|
