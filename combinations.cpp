@@ -4,7 +4,7 @@
 void combineHelper(int k, int num, int n, std::vector<int> choice, std::vector<std::vector<int>>& result){
     if(choice.size() == k){
         result.push_back(choice);
-        choice = {};
+        // choice = {};
         return;
     }
     for(int i = num; i <= n; i++){
