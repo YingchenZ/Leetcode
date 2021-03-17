@@ -16,7 +16,8 @@
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
-|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle II</a>|CPP|
+|118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
+|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashMap.cpp">Design HashMap</a>|CPP|
