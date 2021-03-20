@@ -30,6 +30,7 @@
 |92|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
 |114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
+|150|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
 
 
 ## Hard
