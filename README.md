@@ -26,6 +26,7 @@
 |50|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
 |59|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
+|61|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/rotateList.cpp">Rotate List</a>|CPP|
 |77|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/combinations.cpp">Combinations</a>|CPP|
 |92|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
 |114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
