@@ -23,6 +23,7 @@
 |15|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/3Sum.cpp">3Sum</a>|CPP|
 |19|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
 |33|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/searchRotatedSortedArray.cpp">Search in Rotated Sorted Array</a>|CPP|
+|34|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
 |49|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
