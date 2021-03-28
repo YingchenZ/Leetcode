@@ -39,6 +39,4 @@
 | Number | Title | Language |
 |--------------|------|:--------:|
 |4|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
-
-
-
+|23|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
