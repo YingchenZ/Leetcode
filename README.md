@@ -7,6 +7,7 @@
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
 |119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
+|190|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
 |206|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
