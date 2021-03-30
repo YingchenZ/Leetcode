@@ -4,6 +4,7 @@
 | Number | Title | Language |
 |--------------|------|:--------:|
 |7|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/reverseInteger.cpp">Reverse Integer</a>|CPP|
+|14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
