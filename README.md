@@ -43,7 +43,7 @@
 |150|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
 |173|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
 |781|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
-|1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/clumsyFactorial.cpp">1006. Clumsy Factorial</a>|CPP|
+|1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 
 
 ## Hard
