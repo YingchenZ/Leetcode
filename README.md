@@ -7,6 +7,7 @@
 |13|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/romanToInt.cpp">Roman to Integer</a>|CPP|
 |14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/validParentheses.cpp">Valid Parentheses</a>|CPP|
+|26|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
 |88|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
