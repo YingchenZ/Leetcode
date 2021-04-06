@@ -1,6 +1,12 @@
 # Leetcode
+| Level | Number |
+|-------|:------:|
+|Easy|16|
+|Medium|28|
+|Hard|2|
 
-## Easy => Count = 16
+
+## Easy
 | Number | Title | Language |
 |--------------|------|:--------:|
 |7|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/reverseInteger.cpp">Reverse Integer</a>|CPP|
@@ -21,7 +27,7 @@
 |1603|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/parkingSystem.cpp">Design Parking System</a>|CPP|
 
 
-## Medium => Count = 16
+## Medium
 | Number | Title | Language |
 |--------------|------|:--------:|
 |3|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/LongestSubstringWithoutRepeatingCharacters.cpp">Longest Substring Without Repeating Characters</a>|CPP|
@@ -54,7 +60,7 @@
 |1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 
 
-## Hard => Count = 16
+## Hard
 | Number | Title | Language |
 |--------------|------|:--------:|
 |4|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
