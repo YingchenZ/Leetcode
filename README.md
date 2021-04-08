@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|16|
-|Medium|29|
+|Medium|30|
 |Hard|2|
 
 
@@ -56,6 +56,7 @@
 |114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
 |150|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
+|153|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/findMinInRotatedSortedAarry.cpp">Find Minimum in Rotated Sorted Array</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/medium/findMinInRotatedSortedAarry.java">Find Minimum in Rotated Sorted Array</a>|CPP</p>Java|
 |173|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
 |781|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
