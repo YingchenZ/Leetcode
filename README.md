@@ -14,6 +14,7 @@
 |14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
+|38|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/countAndSay.cpp">Count and Say</a>|Cpp|
 |88|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
