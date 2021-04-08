@@ -9,22 +9,22 @@
 ## Easy
 | Number | Title | Language |
 |--------------|------|:--------:|
-|7|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/reverseInteger.cpp">Reverse Integer</a>|CPP|
-|13|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/romanToInt.cpp">Roman to Integer</a>|CPP|
-|14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
-|20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/validParentheses.cpp">Valid Parentheses</a>|CPP|
-|26|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
-|88|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
-|101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/symmetricTree.cpp">Symmetric Tree</a>|CPP|
-|118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
-|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
-|190|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/reverseBits.cpp">Reverse Bits</a>|CPP|
-|121|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
-|206|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
-|448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
-|705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashSet.cpp">Design HashSet</a>|CPP|
-|706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/designHashMap.cpp">Design HashMap</a>|CPP|
-|1603|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/parkingSystem.cpp">Design Parking System</a>|CPP|
+|7|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/reverseInteger.cpp">Reverse Integer</a>|CPP|
+|13|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
+|14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
+|20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
+|26|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
+|88|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
+|101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
+|118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
+|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
+|190|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
+|121|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
+|206|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
+|448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
+|705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
+|706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
+|1603|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
 
 
 ## Medium
