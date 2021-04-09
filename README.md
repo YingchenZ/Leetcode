@@ -3,7 +3,7 @@
 |-------|:------:|
 |Easy|17|
 |Medium|30|
-|Hard|2|
+|Hard|3|
 
 
 ## Easy
@@ -68,3 +68,4 @@
 |--------------|------|:--------:|
 |4|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
 |23|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
+|154|Find Minimum in Rotated Sorted Array II|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a>|
