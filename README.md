@@ -22,6 +22,7 @@
 |190|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
 |206|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
+|263|Ugly Number|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/uglyNumber.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/easy/uglyNumber.java">Java</a>|
 |448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
