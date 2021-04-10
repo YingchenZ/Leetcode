@@ -40,7 +40,7 @@
 |19|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
 |24|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
 |29|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
-|33|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/searchRotatedSortedArray.cpp">Search in Rotated Sorted Array</a>|CPP|
+|33|Search in Rotated Sorted Array|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/searchRotatedSortedArray.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/medium/searchRotatedSortedArray.java">Java</a>|
 |34|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
 |39|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/combinationSum.cpp">Combination Sum</a>|CPP|
 |40|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
