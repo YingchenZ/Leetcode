@@ -39,6 +39,6 @@ class findMinInRotatedSortedAarry {
             int min = findMin(test);
             System.out.println("\tMin = " + min);
         }
-    // c
+
     }
 }
