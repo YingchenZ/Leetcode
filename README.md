@@ -9,7 +9,7 @@
 ## Easy
 | Number | Title | Language |
 |--------------|------|:--------:|
-|7|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/reverseInteger.cpp">Reverse Integer</a>|CPP|
+|7|<a href = "CPP/easy/reverseInteger.cpp">Reverse Integer</a>|CPP|
 |13|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
 |14|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
