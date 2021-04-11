@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|18|
-|Medium|30|
+|Medium|31|
 |Hard|3|
 
 
@@ -32,20 +32,20 @@
 ## Medium
 | Number | Title | Language |
 |--------------|------|:--------:|
-|3|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">Longest Substring Without Repeating Characters</a>|CPP|
-|6|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/ZigZagConversion.cpp">ZigZag Conversion</a>|CPP|
-|8|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/stringToInteger.cpp">String to Integer (atoi)</a>|CPP|
-|15|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/3Sum.cpp">3Sum</a>|CPP|
-|16|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/3SumClosest.cpp">3Sum Closest</a>|CPP|
-|19|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
-|24|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
-|29|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
-|33|Search in Rotated Sorted Array|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/searchRotatedSortedArray.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/medium/searchRotatedSortedArray.java">Java</a>|
-|34|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
-|39|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/combinationSum.cpp">Combination Sum</a>|CPP|
-|40|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
-|49|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
-|50|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
+|3|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">Longest Substring Without Repeating Characters</a>|CPP|
+|6|<a href = "CPP/medium/ZigZagConversion.cpp">ZigZag Conversion</a>|CPP|
+|8|<a href = "CPP/medium/stringToInteger.cpp">String to Integer (atoi)</a>|CPP|
+|15|<a href = "CPP/medium/3Sum.cpp">3Sum</a>|CPP|
+|16|<a href = "CPP/medium/3SumClosest.cpp">3Sum Closest</a>|CPP|
+|19|<a href = "CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
+|24|<a href = "CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
+|29|<a href = "CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
+|33|Search in Rotated Sorted Array|<a href = "CPP/medium/searchRotatedSortedArray.cpp">CPP</a></p><a href = "Java/medium/searchRotatedSortedArray.java">Java</a>|
+|34|<a href = "CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
+|39|<a href = "CPP/medium/combinationSum.cpp">Combination Sum</a>|CPP|
+|40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
+|49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
+|50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
 |59|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
 |61|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
@@ -58,8 +58,9 @@
 |114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
 |150|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
-|153|Find Minimum in Rotated Sorted Array|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
+|153|Find Minimum in Rotated Sorted Array|<a href = "CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a></p><a href = "Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
 |173|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
+|264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>|
 |781|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 
@@ -69,4 +70,4 @@
 |--------------|------|:--------:|
 |4|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
 |23|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
-|154|Find Minimum in Rotated Sorted Array II|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
+|154|Find Minimum in Rotated Sorted Array II|<a href = "CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a></p><a href = "Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
