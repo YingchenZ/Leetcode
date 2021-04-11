@@ -15,18 +15,18 @@
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|<a href = "CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a></p><a href = "Java/easy/CountSay.java">Java</a>|
-|88|<a href = "Leetcode/CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
-|101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
-|118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
-|119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
-|190|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
-|121|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
-|206|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
-|263|Ugly Number|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/uglyNumber.cpp">CPP</a></p><a href = "https://github.com/YingchenZ/Leetcode/blob/main/Java/easy/uglyNumber.java">Java</a>|
-|448|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
-|705|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
-|706|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
-|1603|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
+|88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
+|101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
+|118|<a href = "CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
+|119|<a href = "CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
+|190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
+|121|<a href = "CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
+|206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
+|263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a></p><a href = "Java/easy/uglyNumber.java">Java</a>|
+|448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
+|705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
+|706|<a href = "CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
+|1603|<a href = "CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
 
 
 ## Medium
