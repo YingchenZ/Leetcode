@@ -15,7 +15,7 @@
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|<a href = "CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a></p><a href = "Java/easy/CountSay.java">Java</a>|
-|88|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
+|88|<a href = "Leetcode/CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
 |119|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
