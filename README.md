@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|18|
-|Medium|32|
+|Medium|34|
 |Hard|3|
 
 
