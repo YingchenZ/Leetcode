@@ -14,7 +14,7 @@
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|<a href = "CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
-|38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a></p><a href = "Java/easy/CountSay.java">Java</a>|
+|38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a>, <a href = "Java/easy/CountSay.java">Java</a>|
 |88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
@@ -40,37 +40,37 @@
 |19|<a href = "CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
 |24|<a href = "CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
 |29|<a href = "CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
-|33|Search in Rotated Sorted Array|<a href = "CPP/medium/searchRotatedSortedArray.cpp">CPP</a></p><a href = "Java/medium/searchRotatedSortedArray.java">Java</a>|
+|33|Search in Rotated Sorted Array|<a href = "CPP/medium/searchRotatedSortedArray.cpp">CPP</a>, <a href = "Java/medium/searchRotatedSortedArray.java">Java</a>|
 |34|<a href = "CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
 |39|<a href = "CPP/medium/combinationSum.cpp">Combination Sum</a>|CPP|
 |40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
-|54|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
-|59|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
-|61|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
-|74|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
-|77|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/combinations.cpp">Combinations</a>|CPP|
-|80|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
-|81|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/searchRotatedSortedArrayII.cpp">Search in Rotated Sorted Array II</a>|CPP|
-|90|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
-|92|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
-|114|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
-|116|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
-|150|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
-|153|Find Minimum in Rotated Sorted Array|<a href = "CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a></p><a href = "Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
-|173|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
-|179|Largest Number|<a href = "CPP/medium/largestNumber.cpp">CPP</a></p><a href = "Java/medium/largestNumber.java">Java</a>|
-|198|House Robber|<a href = "CPP/medium/houseRobber.cpp">CPP</a></p><a href = "Java/medium/houseRobber.java">Java</a>|
-|213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a></p><a href = "Java/medium/houseRobberII.java">Java</a>|
-|264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>|
-|781|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
-|1006|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
+|54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
+|59|<a href = "CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
+|61|<a href = "CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
+|74|<a href = "CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
+|77|<a href = "CPP/medium/combinations.cpp">Combinations</a>|CPP|
+|80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
+|81|<a href = "CPP/medium/searchRotatedSortedArrayII.cpp">Search in Rotated Sorted Array II</a>|CPP|
+|90|<a href = "CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
+|92|<a href = "CPP/medium/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
+|114|<a href = "CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
+|116|<a href = "CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
+|150|<a href = "CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
+|153|Find Minimum in Rotated Sorted Array|<a href = "CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a>, <a href = "Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
+|173|<a href = "CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
+|179|Largest Number|<a href = "CPP/medium/largestNumber.cpp">CPP</a>, <a href = "Java/medium/largestNumber.java">Java</a>|
+|198|House Robber|<a href = "CPP/medium/houseRobber.cpp">CPP</a>, <a href = "Java/medium/houseRobber.java">Java</a>|
+|213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>,<a href = "Java/medium/houseRobberII.java">Java</a>|
+|264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
+|781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
+|1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 
 
 ## Hard
 | Number | Title | Language |
 |--------------|------|:--------:|
-|4|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
-|23|<a href = "https://github.com/YingchenZ/Leetcode/blob/main/CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
-|154|Find Minimum in Rotated Sorted Array II|<a href = "CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a></p><a href = "Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
+|4|<a href = "CPP/hard/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
+|23|<a href = "CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
+|154|Find Minimum in Rotated Sorted Array II|<a href = "CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a>, <a href = "Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
