@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|18|
-|Medium|34|
+|Medium|35|
 |Hard|3|
 
 
@@ -63,6 +63,7 @@
 |179|Largest Number|<a href = "CPP/medium/largestNumber.cpp">CPP</a>, <a href = "Java/medium/largestNumber.java">Java</a>|
 |198|House Robber|<a href = "CPP/medium/houseRobber.cpp">CPP</a>, <a href = "Java/medium/houseRobber.java">Java</a>|
 |213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>,<a href = "Java/medium/houseRobberII.java">Java</a>|
+|220|Contains Duplicate III|<a href = "CPP/medium/containsDuplicateIII.cpp">CPP</a>|
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
