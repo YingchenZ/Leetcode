@@ -13,7 +13,7 @@
 |13|<a href = "CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
-|26|<a href = "CPP/easy/removeDuplicate.cpp">Remove Duplicates from Sorted Array</a>|CPP|
+|26|Remove Duplicates from Sorted Array|<a href = "CPP/easy/removeDuplicate.cpp">CPP</a>,<a href = "Java/easy/removeDuplicate.java">Java</a>|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a>, <a href = "Java/easy/CountSay.java">Java</a>|
 |88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
