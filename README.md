@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|18|
+|Easy|19|
 |Medium|35|
 |Hard|3|
 
@@ -14,6 +14,7 @@
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|Remove Duplicates from Sorted Array|<a href = "CPP/easy/removeDuplicate.cpp">CPP</a>,<a href = "Java/easy/removeDuplicate.java">Java</a>|
+|27|Remove Element|<a href = "CPP/easy/removeElement.cpp">CPP</a>,<a href = "Java/easy/removeElement.java">Java</a>|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a>, <a href = "Java/easy/CountSay.java">Java</a>|
 |88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
