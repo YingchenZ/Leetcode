@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|19|
+|Easy|20|
 |Medium|35|
 |Hard|3|
 
