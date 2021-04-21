@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|20|
-|Medium|35|
+|Medium|36|
 |Hard|3|
 
 
@@ -56,6 +56,7 @@
 |80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
 |81|<a href = "CPP/medium/searchRotatedSortedArrayII.cpp">Search in Rotated Sorted Array II</a>|CPP|
 |90|<a href = "CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
+|91|Decode Ways|<a href = "CPP/medium/decodeWays.cpp">CPP</a>,<a href = "Java/medium/decodeWays.java">Java</a>}
 |92|<a href = "CPP/medium/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
 |114|<a href = "CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
