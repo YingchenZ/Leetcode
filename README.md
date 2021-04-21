@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|20|
-|Medium|36|
+|Medium|37|
 |Hard|3|
 
 
@@ -51,6 +51,7 @@
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
 |59|<a href = "CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
 |61|<a href = "CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
+|64|Minimum Path Sum|<a href = "CPP/medium/minimumPathSum.cpp">CPP</a>,<a href = "Java/medium/minimumPathSum.java">Java</a>|
 |74|<a href = "CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
 |77|<a href = "CPP/medium/combinations.cpp">Combinations</a>|CPP|
 |80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
