@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|20|
-|Medium|38|
+|Medium|39|
 |Hard|3|
 
 
@@ -13,9 +13,9 @@
 |13|<a href = "CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
-|26|Remove Duplicates from Sorted Array|<a href = "CPP/easy/removeDuplicate.cpp">CPP</a>,<a href = "Java/easy/removeDuplicate.java">Java</a>|
-|27|Remove Element|<a href = "CPP/easy/removeElement.cpp">CPP</a>,<a href = "Java/easy/removeElement.java">Java</a>|
-|28|Implement strStr()|<a href = "CPP/easy/strStr.cpp">CPP</a>,<a href = "Java/easy/strStr.java">Java</a>|
+|26|Remove Duplicates from Sorted Array|<a href = "CPP/easy/removeDuplicate.cpp">CPP</a>, <a href = "Java/easy/removeDuplicate.java">Java</a>|
+|27|Remove Element|<a href = "CPP/easy/removeElement.cpp">CPP</a>, <a href = "Java/easy/removeElement.java">Java</a>|
+|28|Implement strStr()|<a href = "CPP/easy/strStr.cpp">CPP</a>, <a href = "Java/easy/strStr.java">Java</a>|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a>, <a href = "Java/easy/CountSay.java">Java</a>|
 |88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
@@ -24,7 +24,7 @@
 |190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
 |206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
-|263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>,<a href = "Java/easy/uglyNumber.java">Java</a>|
+|263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
@@ -51,23 +51,24 @@
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
 |59|<a href = "CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
 |61|<a href = "CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
-|64|Minimum Path Sum|<a href = "CPP/medium/minimumPathSum.cpp">CPP</a>,<a href = "Java/medium/minimumPathSum.java">Java</a>|
+|62|Unique Paths|<a href = "CPP/medium/uniquePaths.cpp">CPP</a>, <a href = "Java/medium/uniquePaths.java">Java</a>|
+|64|Minimum Path Sum|<a href = "CPP/medium/minimumPathSum.cpp">CPP</a>, <a href = "Java/medium/minimumPathSum.java">Java</a>|
 |74|<a href = "CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
 |77|<a href = "CPP/medium/combinations.cpp">Combinations</a>|CPP|
 |80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
 |81|<a href = "CPP/medium/searchRotatedSortedArrayII.cpp">Search in Rotated Sorted Array II</a>|CPP|
 |90|<a href = "CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
-|91|Decode Ways|<a href = "CPP/medium/decodeWays.cpp">CPP</a>,<a href = "Java/medium/decodeWays.java">Java</a>|
+|91|Decode Ways|<a href = "CPP/medium/decodeWays.cpp">CPP</a>, <a href = "Java/medium/decodeWays.java">Java</a>|
 |92|<a href = "CPP/medium/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
 |114|<a href = "CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
-|120|Triangle|<a href = "CPP/medium/triangle.cpp">CPP</a>,<a href = "Java/medium/triangle.java">Java</a>|
+|120|Triangle|<a href = "CPP/medium/triangle.cpp">CPP</a>, <a href = "Java/medium/triangle.java">Java</a>|
 |150|<a href = "CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
 |153|Find Minimum in Rotated Sorted Array|<a href = "CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a>, <a href = "Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
 |173|<a href = "CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
 |179|Largest Number|<a href = "CPP/medium/largestNumber.cpp">CPP</a>, <a href = "Java/medium/largestNumber.java">Java</a>|
 |198|House Robber|<a href = "CPP/medium/houseRobber.cpp">CPP</a>, <a href = "Java/medium/houseRobber.java">Java</a>|
-|213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>,<a href = "Java/medium/houseRobberII.java">Java</a>|
+|213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>, <a href = "Java/medium/houseRobberII.java">Java</a>|
 |220|Contains Duplicate III|<a href = "CPP/medium/containsDuplicateIII.cpp">CPP</a>|
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
