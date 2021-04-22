@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|20|
-|Medium|40|
+|Medium|41|
 |Hard|3|
 
 
@@ -61,6 +61,7 @@
 |90|<a href = "CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
 |91|Decode Ways|<a href = "CPP/medium/decodeWays.cpp">CPP</a>, <a href = "Java/medium/decodeWays.java">Java</a>|
 |92|<a href = "CPP/medium/ReversedLinkedListII.cpp">Reverse Linked List II</a>|CPP|
+|96|Unique Binary Search Trees|<a href = "CPP/medium/uniqueBST.cpp">CPP</a>, <a href = "Java/medium/uniqueBST.java">Java</a>|
 |114|<a href = "CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
 |120|Triangle|<a href = "CPP/medium/triangle.cpp">CPP</a>, <a href = "Java/medium/triangle.java">Java</a>|
