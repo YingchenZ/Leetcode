@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|20|
+|Easy|21|
 |Medium|43|
 |Hard|3|
 
@@ -28,6 +28,7 @@
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
+|897|Increasing Order Search Tree|<a href = "CPP/easy/increasingOrderSearchTree.cpp">CPP</a>, <a href = "Java/easy/increasingOrderSearchTree.java">Java</a>|
 |1603|<a href = "CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
 
 
