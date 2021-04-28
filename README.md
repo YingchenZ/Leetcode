@@ -77,7 +77,7 @@
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
 |368|Largest Divisible Subset|<a href = "CPP/medium/largestDivisibleSubset.cpp">CPP</a>, <a href = "Java/medium/largestDivisibleSubset.java">Java</a>|
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
-|633|Sum of Square Numbers|<<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
+|633|Sum of Square Numbers|<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 
