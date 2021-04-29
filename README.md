@@ -3,7 +3,7 @@
 |-------|:------:|
 |Easy|22|
 |Medium|44|
-|Hard|3|
+|Hard|4|
 
 
 ## Easy
@@ -88,3 +88,4 @@
 |4|<a href = "CPP/hard/MedianOfTwoSortedArrays.cpp">Median of Two Sorted Arrays</a>|CPP|
 |23|<a href = "CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
 |154|Find Minimum in Rotated Sorted Array II|<a href = "CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a>, <a href = "Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
+|403|Frog Jump|<a href = "CPP/hard/frogJump.cpp">CPP</a>, <a href = "Java/hard/frogJump.java">Java</a>|
