@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|22|
-|Medium|46|
+|Medium|47|
 |Hard|4|
 
 
@@ -56,6 +56,7 @@
 |62|Unique Paths|<a href = "CPP/medium/uniquePaths.cpp">CPP</a>, <a href = "Java/medium/uniquePaths.java">Java</a>|
 |63|Unique Paths II|<a href = "CPP/medium/uniquePathsII.cpp">CPP</a>, <a href = "Java/medium/uniquePathsII.java">Java</a>|
 |64|Minimum Path Sum|<a href = "CPP/medium/minimumPathSum.cpp">CPP</a>, <a href = "Java/medium/minimumPathSum.java">Java</a>|
+|73|Set Matrix Zeroes|<a href = "CPP/medium/setMatrixZeros.cpp">CPP</a>|
 |74|<a href = "CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
 |77|<a href = "CPP/medium/combinations.cpp">Combinations</a>|CPP|
 |80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
