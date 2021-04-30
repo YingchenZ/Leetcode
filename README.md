@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|22|
-|Medium|44|
+|Medium|45|
 |Hard|4|
 
 
@@ -67,6 +67,7 @@
 |114|<a href = "CPP/medium/flattenBTtoLinkedList.cpp">Flatten Binary Tree to Linked List</a>|CPP|
 |116|<a href = "CPP/medium/populatingNextRight.cpp">Populating Next Right Pointers in Each Node</a>|CPP|
 |120|Triangle|<a href = "CPP/medium/triangle.cpp">CPP</a>, <a href = "Java/medium/triangle.java">Java</a>|
+|137|Single Number II|<a href = "CPP/medium/singleNumberII.cpp">CPP</a>, <a href = "Java/medium/singleNumberII.java">Java</a>|
 |150|<a href = "CPP/medium/evalRPN.cpp">Evaluate Reverse Polish Notation</a>|CPP|
 |153|Find Minimum in Rotated Sorted Array|<a href = "CPP/medium/findMinInRotatedSortedAarry.cpp">CPP</a>, <a href = "Java/medium/findMinInRotatedSortedAarry.java">Java</a>|
 |173|<a href = "CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
