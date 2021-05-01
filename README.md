@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|23|
-|Medium|47|
+|Medium|48|
 |Hard|4|
 
 
@@ -84,6 +84,7 @@
 |633|Sum of Square Numbers|<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
+|1052|Grumpy Bookstore Owner|<a href = "CPP/medium/grumpyBookstoreOwner.cpp">CPP</a>|
 
 
 ## Hard
