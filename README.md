@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|22|
+|Easy|23|
 |Medium|47|
 |Hard|4|
 
@@ -26,6 +26,7 @@
 |206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
+|690|Employee Importance|<a href = "CPP/easy/employeeImportance.cpp">CPP</a>, <a href = "Java/easy/employeeImportance.java">Java</a>|
 |705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
 |897|Increasing Order Search Tree|<a href = "CPP/easy/increasingOrderSearchTree.cpp">CPP</a>, <a href = "Java/easy/increasingOrderSearchTree.java">Java</a>|
