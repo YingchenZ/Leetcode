@@ -43,7 +43,8 @@ void printVector(std::vector<int> vec){
 
 // customers = {1,0,1,2,1,1,7,5}
 // grumpy = {0,1,0,1,0,1,0,1}
-// X = 3   Maximum Number of Customers = 16
+// X = 3
+// Maximum Number of Customers That Can Be Satisfied Throughout The Day = 16
 
 int main(){
     std::vector<int> customers = {1,0,1,2,1,1,7,5};
@@ -55,6 +56,7 @@ int main(){
 
     std::cout << "grumpy = ";
     printVector(grumpy);
-    std::cout << "X = "<< X << "\tMaximum Number of Customers = " <<maxSatisfied(customers, grumpy, X)<< std::endl; 
+    std::cout << "X = "<< X << std::endl;
+    std::cout << "Maximum Number of Customers That Can Be Satisfied Throughout The Day = " <<maxSatisfied(customers, grumpy, X)<< std::endl; 
     return 0;
 }
