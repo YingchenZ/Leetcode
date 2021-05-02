@@ -59,7 +59,7 @@
 |64|Minimum Path Sum|<a href = "CPP/medium/minimumPathSum.cpp">CPP</a>, <a href = "Java/medium/minimumPathSum.java">Java</a>|
 |73|Set Matrix Zeroes|<a href = "CPP/medium/setMatrixZeros.cpp">CPP</a>, <a href = "Java/medium/setMatrixZeros.java">Java</a>|
 |74|<a href = "CPP/medium/searchMatrix.cpp">Search a 2D Matrix</a>|CPP|
-|77|<a href = "CPP/medium/combinations.cpp">Combinations</a>|CPP|
+|77|Combinations|<a href = "CPP/medium/combinations.cpp">CPP</a>, <a href = "Java/medium/combinations.java">Java</a>|
 |80|<a href = "CPP/medium/removeDuplicateII.cpp">Remove Duplicates from Sorted Array II</a>|CPP|
 |81|<a href = "CPP/medium/searchRotatedSortedArrayII.cpp">Search in Rotated Sorted Array II</a>|CPP|
 |90|<a href = "CPP/medium/subsetsII.cpp">Subsets II</a>|CPP|
