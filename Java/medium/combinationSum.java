@@ -26,6 +26,9 @@ class Solution {
     }
 
     public static void printResult(List<List<Integer>> matrix){
+        if(matrix.size() == 0){
+            System.out.print("[]");
+        }
         for(int i = 0; i < matrix.size(); i++){
             System.out.print(Arrays.toString( matrix.get(i).toArray()));
             if(i != matrix.size() - 1){
@@ -35,23 +38,23 @@ class Solution {
     }
 
     // candidates = [2, 3, 6, 7], target = 7
-    // Combination = [2, 2, 3],[7]
-
+    // Combination => [2, 2, 3],[7]
+    
     // candidates = [2, 3, 5], target = 8
-    // Combination = [2, 2, 2, 2],[2, 3, 3],[3, 5]
-
+    // Combination => [2, 2, 2, 2],[2, 3, 3],[3, 5]
+    
     // candidates = [2], target = 1
-    // Combination =
-
+    // Combination => []
+    
     // candidates = [1], target = 1
-    // Combination = [1]
+    // Combination => [1]
 
     public static void main(String[] args){
         int[] targetSet = new int[]{7,8,1,1};
         int[][] testSet = new int[][]{{2,3,6,7}, {2,3,5}, {2}, {1}};
         for(int i = 0; i < testSet.length; i++){
             System.out.println("candidates = " + Arrays.toString(testSet[i]) + ", target = " + targetSet[i]);
-            System.out.print("Combination = ");
+            System.out.print("Combination => ");
             printResult(combinationSum(testSet[i], targetSet[i]));
             System.out.println('\n');
         }
