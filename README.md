@@ -47,7 +47,7 @@
 |29|<a href = "CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
 |33|Search in Rotated Sorted Array|<a href = "CPP/medium/searchRotatedSortedArray.cpp">CPP</a>, <a href = "Java/medium/searchRotatedSortedArray.java">Java</a>|
 |34|<a href = "CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
-|39|<a href = "CPP/medium/combinationSum.cpp">Combination Sum</a>|CPP|
+|39|Combination Sum|<a href = "CPP/medium/combinationSum.cpp">CPP</a>, <a href = "Java/medium/combinationSum.java">Java</a>|
 |40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
