@@ -9,7 +9,7 @@
 ## Easy
 | Number | Title | Language |
 |--------------|------|:--------:|
-|7|<a href = "CPP/easy/reverseInteger.cpp">Reverse Integer</a>|CPP|
+|7|Reverse Integer|<a href = "CPP/easy/reverseInteger.cpp">CPP</a>, <a href = "Java/easy/reverseInteger.java">Java</a>|
 |13|<a href = "CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
