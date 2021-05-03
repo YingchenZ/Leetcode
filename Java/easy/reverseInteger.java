@@ -3,17 +3,18 @@ import java.util.*;
 class Solution {
     public static int reverse(int x) {
         if(x >= 0 && x < 10) return x;
+        if(x > Integer.MAX_VALUE || x < Integer.MIN_VALUE)  return 0;
         boolean negative = x < 0;
+
         x = Math.abs(x);
-        int length = (x+"").length();
-        if(length > 10) return 0;
+
         double ans = 0;
 
-        double len = Math.pow(10, length - 1);
-        for(double i = len, j = 1; i > 0 && j <= len; i /= 10, j *= 10){
-            ans += ((int)(x / i) * j);
-            x -= (int)(x / i) * i;
+        while(x > 0){
+            ans = (ans * 10 + x % 10);
+            x /= 10;
         }
+
         ans = (negative? -ans : ans);
         if(ans > Integer.MAX_VALUE || ans < Integer.MIN_VALUE)  return 0;
         return (int)ans;
