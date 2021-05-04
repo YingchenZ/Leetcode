@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|23|
+|Easy|24|
 |Medium|49|
 |Hard|4|
 
@@ -23,6 +23,7 @@
 |119|<a href = "CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
 |190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
+|167|Two Sum II - Input array is sorted|<a href = "CPP/easy/twoSumII.cpp">CPP</a>, <a href = "Java/easy/twoSumII.java">Java</a>|
 |206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
