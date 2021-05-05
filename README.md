@@ -84,7 +84,7 @@
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
 |554|Brick Wall|<a href = "CPP/medium/brickWall.cpp">CPP</a>, <a href = "Java/medium/brickWall.java">Java</a>|
 |633|Sum of Square Numbers|<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
-|740|Delete and Earn|<a href = "CPP/medium/deleteAndEarn.cpp">CPP</a>|
+|740|Delete and Earn|<a href = "CPP/medium/deleteAndEarn.cpp">CPP</a>, <a href = "Java/medium/deleteAndEarn.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 |1052|Grumpy Bookstore Owner|<a href = "CPP/medium/grumpyBookstoreOwner.cpp">CPP</a>, <a href = "Java/medium/grumpyBookstoreOwner.java">Java</a>|
