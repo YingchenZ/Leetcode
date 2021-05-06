@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|24|
+|Easy|25|
 |Medium|50|
 |Hard|4|
 
@@ -33,6 +33,7 @@
 |897|Increasing Order Search Tree|<a href = "CPP/easy/increasingOrderSearchTree.cpp">CPP</a>, <a href = "Java/easy/increasingOrderSearchTree.java">Java</a>|
 |938|Range Sum of BST|<a href = "CPP/easy/rangeSumOfBST.cpp">CPP</a>, <a href = "Java/easy/rangeSumOfBST.java">Java</a>|
 |1603|<a href = "CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
+|1720|Decode XORed Array|<a href = "CPP/easy/decodeXORedArray.cpp">CPP</a>, <a href = "Java/easy/decodeXORedArray.java">Java</a>|
 
 
 ## Medium
