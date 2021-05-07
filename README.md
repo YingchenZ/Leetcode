@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|26|
-|Medium|50|
+|Medium|51|
 |Hard|4|
 
 
@@ -89,6 +89,7 @@
 |740|Delete and Earn|<a href = "CPP/medium/deleteAndEarn.cpp">CPP</a>, <a href = "Java/medium/deleteAndEarn.java">Java</a>|
 |781|<a href = "CPP/medium/rabbitsInForest.cpp">Rabbits in Forest</a>|CPP|
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
+|1143|Longest Common Subsequence|<a href = "CPP/medium/longestCommonSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestCommonSubsequence.java">Java</a>|
 |1052|Grumpy Bookstore Owner|<a href = "CPP/medium/grumpyBookstoreOwner.cpp">CPP</a>, <a href = "Java/medium/grumpyBookstoreOwner.java">Java</a>|
 
 
