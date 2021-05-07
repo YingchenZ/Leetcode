@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|26|
-|Medium|52|
+|Medium|53|
 |Hard|4|
 
 
@@ -83,6 +83,7 @@
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
 |287|Find the Duplicate Number|<a href = "CPP/medium/findDuplicateNumber.cpp">CPP</a>, <a href = "Java/medium/findDuplicateNumber.java">Java</a>|
 |300|Longest Increasing Subsequence|<a href = "CPP/medium/longestIncreasingSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestIncreasingSubsequence.java">Java</a>|
+|322|Coin Change|<a href = "CPP/medium/coinChange.cpp">CPP</a>, <a href = "Java/medium/coinChange.java">Java</a>|
 |368|Largest Divisible Subset|<a href = "CPP/medium/largestDivisibleSubset.cpp">CPP</a>, <a href = "Java/medium/largestDivisibleSubset.java">Java</a>|
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
 |554|Brick Wall|<a href = "CPP/medium/brickWall.cpp">CPP</a>, <a href = "Java/medium/brickWall.java">Java</a>|
