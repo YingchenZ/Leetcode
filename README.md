@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|26|
-|Medium|55|
+|Medium|56|
 |Hard|4|
 
 
@@ -41,6 +41,7 @@
 | Number | Title | Language |
 |--------------|------|:--------:|
 |3|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">Longest Substring Without Repeating Characters</a>|CPP|
+|5|Longest Palindromic Substring|<a href = "CPP/medium/longestPalindromicSubstring.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubstring.java">Java</a>|
 |6|<a href = "CPP/medium/ZigZagConversion.cpp">ZigZag Conversion</a>|CPP|
 |8|<a href = "CPP/medium/stringToInteger.cpp">String to Integer (atoi)</a>|CPP|
 |15|3Sum|<a href = "CPP/medium/3Sum.cpp">CPP</a>, <a href = "Java/medium/3Sum.java">Java</a>|
