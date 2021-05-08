@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|26|
-|Medium|54|
+|Medium|55|
 |Hard|4|
 
 
@@ -87,6 +87,7 @@
 |322|Coin Change|<a href = "CPP/medium/coinChange.cpp">CPP</a>, <a href = "Java/medium/coinChange.java">Java</a>|
 |368|Largest Divisible Subset|<a href = "CPP/medium/largestDivisibleSubset.cpp">CPP</a>, <a href = "Java/medium/largestDivisibleSubset.java">Java</a>|
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
+|516|Longest Palindromic Subsequence|<a href = "CPP/medium/longestPalindromicSubsquence.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubsquence.java">Java</a>|
 |554|Brick Wall|<a href = "CPP/medium/brickWall.cpp">CPP</a>, <a href = "Java/medium/brickWall.java">Java</a>|
 |633|Sum of Square Numbers|<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
 |740|Delete and Earn|<a href = "CPP/medium/deleteAndEarn.cpp">CPP</a>, <a href = "Java/medium/deleteAndEarn.java">Java</a>|
