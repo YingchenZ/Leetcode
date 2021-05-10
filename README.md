@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|27|
-|Medium|57|
+|Medium|58|
 |Hard|4|
 
 
@@ -97,6 +97,7 @@
 |1006|<a href = "CPP/medium/clumsyFactorial.cpp">Clumsy Factorial</a>|CPP|
 |1143|Longest Common Subsequence|<a href = "CPP/medium/longestCommonSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestCommonSubsequence.java">Java</a>|
 |1052|Grumpy Bookstore Owner|<a href = "CPP/medium/grumpyBookstoreOwner.cpp">CPP</a>, <a href = "Java/medium/grumpyBookstoreOwner.java">Java</a>|
+|1208|Get Equal Substrings Within Budget|<a href = "CPP/medium/getEqualSubstringsWithinBudget.cpp">CPP</a>, <a href = "Java/medium/getEqualSubstringsWithinBudget.java">Java</a>|
 |1482|Minimum Number of Days to Make m Bouquets|<a href = "CPP/medium/minDaysMakeBouquets.cpp">CPP</a>, <a href = "Java/medium/minDaysMakeBouquets.java">Java</a>|
 
 
