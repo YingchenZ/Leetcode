@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|26|
+|Easy|27|
 |Medium|57|
 |Hard|4|
 
@@ -30,6 +30,7 @@
 |690|Employee Importance|<a href = "CPP/easy/employeeImportance.cpp">CPP</a>, <a href = "Java/easy/employeeImportance.java">Java</a>|
 |705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
 |706|<a href = "CPP/easy/designHashMap.cpp">Design HashMap</a>|CPP|
+|872|Leaf-Similar Trees|<a href = "CPP/easy/leafSimilarTrees.cpp">CPP</a>, <a href = "Java/easy/leafSimilarTrees.java">Java</a>|
 |897|Increasing Order Search Tree|<a href = "CPP/easy/increasingOrderSearchTree.cpp">CPP</a>, <a href = "Java/easy/increasingOrderSearchTree.java">Java</a>|
 |938|Range Sum of BST|<a href = "CPP/easy/rangeSumOfBST.cpp">CPP</a>, <a href = "Java/easy/rangeSumOfBST.java">Java</a>|
 |1486|XOR Operation in an Array|<a href = "CPP/easy/XOROperationInArray.cpp">CPP</a>, <a href = "Java/easy/XOROperationInArray.java">Java</a>|
