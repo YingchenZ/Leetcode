@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|27|
-|Medium|60|
+|Medium|61|
 |Hard|4|
 
 
@@ -56,6 +56,7 @@
 |34|<a href = "CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
 |39|Combination Sum|<a href = "CPP/medium/combinationSum.cpp">CPP</a>, <a href = "Java/medium/combinationSum.java">Java</a>|
 |40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
+|46|Permutations|<a href = "CPP/medium/permutations.cpp">CPP</a>, <a href = "Java/medium/permutations.java">Java</a>|
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
