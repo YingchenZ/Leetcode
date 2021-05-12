@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|27|
-|Medium|62|
+|Medium|63|
 |Hard|4|
 
 
@@ -50,6 +50,7 @@
 |16|<a href = "CPP/medium/3SumClosest.cpp">3Sum Closest</a>|CPP|
 |17|Letter Combinations of a Phone Number|<a href = "CPP/medium/letterCombination.cpp">CPP</a>, <a href = "Java/medium/letterCombination.java">Java</a>|
 |19|<a href = "CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
+|22|Generate Parentheses|<a href = "CPP/medium/generateParentheses.cpp">CPP</a>, <a href = "Java/medium/generateParentheses.java">Java</a>|
 |24|<a href = "CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
 |29|<a href = "CPP/medium/divideTwoInt.cpp">Divide Two Integers</a>|CPP|
 |33|Search in Rotated Sorted Array|<a href = "CPP/medium/searchRotatedSortedArray.cpp">CPP</a>, <a href = "Java/medium/searchRotatedSortedArray.java">Java</a>|
