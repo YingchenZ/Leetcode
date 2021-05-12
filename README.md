@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|27|
-|Medium|61|
+|Medium|62|
 |Hard|4|
 
 
@@ -100,6 +100,7 @@
 |1143|Longest Common Subsequence|<a href = "CPP/medium/longestCommonSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestCommonSubsequence.java">Java</a>|
 |1052|Grumpy Bookstore Owner|<a href = "CPP/medium/grumpyBookstoreOwner.cpp">CPP</a>, <a href = "Java/medium/grumpyBookstoreOwner.java">Java</a>|
 |1208|Get Equal Substrings Within Budget|<a href = "CPP/medium/getEqualSubstringsWithinBudget.cpp">CPP</a>, <a href = "Java/medium/getEqualSubstringsWithinBudget.java">Java</a>|
+|1310|XOR Queries of a Subarray|<a href = "CPP/medium/xorQueries.cpp">CPP</a>, <a href = "Java/medium/xorQueries.java">Java</a>|
 |1482|Minimum Number of Days to Make m Bouquets|<a href = "CPP/medium/minDaysMakeBouquets.cpp">CPP</a>, <a href = "Java/medium/minDaysMakeBouquets.java">Java</a>|
 |1734|Decode XORed Permutation|<a href = "CPP/medium/decodeXORedPermutation.cpp">CPP</a>, <a href = "Java/medium/decodeXORedPermutation.java">Java</a>|
 
