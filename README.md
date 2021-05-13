@@ -3,7 +3,7 @@
 |-------|:------:|
 |Easy|27|
 |Medium|63|
-|Hard|4|
+|Hard|5|
 
 
 ## Easy
@@ -113,3 +113,4 @@
 |23|<a href = "CPP/hard/mergeSortedList.cpp">Merge k Sorted Lists</a>|CPP|
 |154|Find Minimum in Rotated Sorted Array II|<a href = "CPP/hard/findMinInRotatedSortedAarryII.cpp">CPP</a>, <a href = "Java/hard/findMinInRotatedSortedAarryII.java">Java</a>|
 |403|Frog Jump|<a href = "CPP/hard/frogJump.cpp">CPP</a>, <a href = "Java/hard/frogJump.java">Java</a>|
+|1269|Number of Ways to Stay in the Same Place After Some Steps|<a href = "CPP/hard/wayToStay.cpp">CPP</a>, <a href = "Java/hard/wayToStay.java">Java</a>|
