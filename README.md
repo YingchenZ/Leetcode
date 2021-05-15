@@ -10,7 +10,7 @@
 | Number | Title | Language |
 |--------------|------|:--------:|
 |7|Reverse Integer|<a href = "CPP/easy/reverseInteger.cpp">CPP</a>, <a href = "Java/easy/reverseInteger.java">Java</a>|
-|13|<a href = "CPP/easy/romanToInt.cpp">Roman to Integer</a>|CPP|
+|13|Roman to Integer|<a href = "CPP/easy/romanToInt.cpp">CPP</a>, <a href = "Java/easy/romanToInt.java">Java</a>|
 |14|<a href = "CPP/easy/longestCommonPrefix.cpp">Longest Common Prefix</a>|CPP|
 |20|<a href = "CPP/easy/validParentheses.cpp">Valid Parentheses</a>|CPP|
 |26|Remove Duplicates from Sorted Array|<a href = "CPP/easy/removeDuplicate.cpp">CPP</a>, <a href = "Java/easy/removeDuplicate.java">Java</a>|
