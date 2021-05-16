@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|27|
+|Easy|28|
 |Medium|67|
 |Hard|5|
 
@@ -17,6 +17,7 @@
 |27|Remove Element|<a href = "CPP/easy/removeElement.cpp">CPP</a>, <a href = "Java/easy/removeElement.java">Java</a>|
 |28|Implement strStr()|<a href = "CPP/easy/strStr.cpp">CPP</a>, <a href = "Java/easy/strStr.java">Java</a>|
 |38|Count and Say|<a href = "CPP/easy/countAndSay.cpp">CPP</a>, <a href = "Java/easy/CountSay.java">Java</a>|
+|69|Sqrt(x)|<a href = "CPP/easy/sqrtX.cpp">CPP</a>, <a href = "Java/easy/sqrtX.java">Java</a>|
 |88|<a href = "CPP/easy/mergeSortedArray.cpp">Merge Sorted Array</a>|CPP|
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
