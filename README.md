@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|28|
-|Medium|67|
+|Medium|68|
 |Hard|5|
 
 
@@ -63,6 +63,7 @@
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
+|56|Merge Intervals|<a href = "CPP/medium/mergeIntervals.cpp">CPP</a>, <a href = "Java/medium/mergeIntervals.java">Java</a>|
 |59|<a href = "CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
 |61|<a href = "CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
 |62|Unique Paths|<a href = "CPP/medium/uniquePaths.cpp">CPP</a>, <a href = "Java/medium/uniquePaths.java">Java</a>|
