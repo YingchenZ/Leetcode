@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|29|
-|Medium|68|
+|Medium|69|
 |Hard|5|
 
 
@@ -110,6 +110,7 @@
 |1208|Get Equal Substrings Within Budget|<a href = "CPP/medium/getEqualSubstringsWithinBudget.cpp">CPP</a>, <a href = "Java/medium/getEqualSubstringsWithinBudget.java">Java</a>|
 |1310|XOR Queries of a Subarray|<a href = "CPP/medium/xorQueries.cpp">CPP</a>, <a href = "Java/medium/xorQueries.java">Java</a>|
 |1482|Minimum Number of Days to Make m Bouquets|<a href = "CPP/medium/minDaysMakeBouquets.cpp">CPP</a>, <a href = "Java/medium/minDaysMakeBouquets.java">Java</a>|
+|1609|Even Odd Tree|<a href = "CPP/medium/evenOddTree.cpp">CPP</a>, <a href = "Java/medium/evenOddTree.java">Java</a>|
 |1734|Decode XORed Permutation|<a href = "CPP/medium/decodeXORedPermutation.cpp">CPP</a>, <a href = "Java/medium/decodeXORedPermutation.java">Java</a>|
 
 
