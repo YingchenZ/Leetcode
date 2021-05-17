@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|28|
+|Easy|29|
 |Medium|68|
 |Hard|5|
 
@@ -34,6 +34,7 @@
 |872|Leaf-Similar Trees|<a href = "CPP/easy/leafSimilarTrees.cpp">CPP</a>, <a href = "Java/easy/leafSimilarTrees.java">Java</a>|
 |897|Increasing Order Search Tree|<a href = "CPP/easy/increasingOrderSearchTree.cpp">CPP</a>, <a href = "Java/easy/increasingOrderSearchTree.java">Java</a>|
 |938|Range Sum of BST|<a href = "CPP/easy/rangeSumOfBST.cpp">CPP</a>, <a href = "Java/easy/rangeSumOfBST.java">Java</a>|
+|993|Cousins in Binary Tree|<a href = "CPP/easy/cousinsInBT.cpp">CPP</a>, <a href = "Java/easy/cousinsInBT.java">Java</a>|
 |1486|XOR Operation in an Array|<a href = "CPP/easy/XOROperationInArray.cpp">CPP</a>, <a href = "Java/easy/XOROperationInArray.java">Java</a>|
 |1603|<a href = "CPP/easy/parkingSystem.cpp">Design Parking System</a>|CPP|
 |1720|Decode XORed Array|<a href = "CPP/easy/decodeXORedArray.cpp">CPP</a>, <a href = "Java/easy/decodeXORedArray.java">Java</a>|
