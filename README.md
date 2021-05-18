@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|29|
+|Easy|30|
 |Medium|71|
 |Hard|5|
 
@@ -27,6 +27,7 @@
 |167|Two Sum II - Input array is sorted|<a href = "CPP/easy/twoSumII.cpp">CPP</a>, <a href = "Java/easy/twoSumII.java">Java</a>|
 |206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
+|367|Valid Perfect Square|<a href = "CPP/easy/validPerfectSquare.cpp">CPP</a>, <a href = "Java/easy/validPerfectSquare.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |690|Employee Importance|<a href = "CPP/easy/employeeImportance.cpp">CPP</a>, <a href = "Java/easy/employeeImportance.java">Java</a>|
 |705|<a href = "CPP/easy/designHashSet.cpp">Design HashSet</a>|CPP|
