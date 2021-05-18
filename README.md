@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|29|
-|Medium|70|
+|Medium|71|
 |Hard|5|
 
 
@@ -91,6 +91,7 @@
 |173|<a href = "CPP/medium/bstIterator.cpp">Binary Search Tree Iterator</a>|CPP|
 |179|Largest Number|<a href = "CPP/medium/largestNumber.cpp">CPP</a>, <a href = "Java/medium/largestNumber.java">Java</a>|
 |198|House Robber|<a href = "CPP/medium/houseRobber.cpp">CPP</a>, <a href = "Java/medium/houseRobber.java">Java</a>|
+|208|Implement Trie (Prefix Tree)|<a href = "CPP/medium/trie.cpp">CPP</a>, <a href = "Java/medium/trie.java">Java</a>|
 |213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>, <a href = "Java/medium/houseRobberII.java">Java</a>|
 |220|Contains Duplicate III|<a href = "CPP/medium/containsDuplicateIII.cpp">CPP</a>|
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
