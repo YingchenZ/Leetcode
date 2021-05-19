@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|30|
-|Medium|71|
+|Medium|72|
 |Hard|5|
 
 
@@ -95,6 +95,7 @@
 |208|Implement Trie (Prefix Tree)|<a href = "CPP/medium/trie.cpp">CPP</a>, <a href = "Java/medium/trie.java">Java</a>|
 |213|House Robber II|<a href = "CPP/medium/houseRobberII.cpp">CPP</a>, <a href = "Java/medium/houseRobberII.java">Java</a>|
 |220|Contains Duplicate III|<a href = "CPP/medium/containsDuplicateIII.cpp">CPP</a>|
+|230|Kth Smallest Element in a BST|<a href = "CPP/medium/kthSamllestInBST.cpp">CPP</a>, <a href = "Java/medium/kthSamllestInBST.java">Java</a>|
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
 |287|Find the Duplicate Number|<a href = "CPP/medium/findDuplicateNumber.cpp">CPP</a>, <a href = "Java/medium/findDuplicateNumber.java">Java</a>|
 |300|Longest Increasing Subsequence|<a href = "CPP/medium/longestIncreasingSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestIncreasingSubsequence.java">Java</a>|
