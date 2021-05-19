@@ -25,7 +25,7 @@
 |190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
 |167|Two Sum II - Input array is sorted|<a href = "CPP/easy/twoSumII.cpp">CPP</a>, <a href = "Java/easy/twoSumII.java">Java</a>|
-|206|<a href = "CPP/easy/ReverseLinkedList.cpp">Reverse Linked List</a>|CPP|
+|206|Reverse Linked List|<a href = "CPP/easy/ReverseLinkedList.cpp">CPP</a>, <a href = "Java/easy/ReverseLinkedList.java">Java</a>|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
 |367|Valid Perfect Square|<a href = "CPP/easy/validPerfectSquare.cpp">CPP</a>, <a href = "Java/easy/validPerfectSquare.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
