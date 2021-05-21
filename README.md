@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|31|
-|Medium|74|
+|Medium|75|
 |Hard|5|
 
 
@@ -54,6 +54,7 @@
 |15|3Sum|<a href = "CPP/medium/3Sum.cpp">CPP</a>, <a href = "Java/medium/3Sum.java">Java</a>|
 |16|<a href = "CPP/medium/3SumClosest.cpp">3Sum Closest</a>|CPP|
 |17|Letter Combinations of a Phone Number|<a href = "CPP/medium/letterCombination.cpp">CPP</a>, <a href = "Java/medium/letterCombination.java">Java</a>|
+|18|4Sum|<a href = "CPP/medium/4Sum.cpp">CPP</a>, <a href = "Java/medium/4Sum.java">Java</a>|
 |19|<a href = "CPP/medium/RemoveNthNodeFromEndOfList.cpp">Remove Nth Node From End of List</a>|CPP|
 |22|Generate Parentheses|<a href = "CPP/medium/generateParentheses.cpp">CPP</a>, <a href = "Java/medium/generateParentheses.java">Java</a>|
 |24|<a href = "CPP/medium/swapNodesInPairs.cpp">Swap Nodes in Pairs</a>|CPP|
