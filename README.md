@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|31|
-|Medium|72|
+|Medium|74|
 |Hard|5|
 
 
@@ -62,10 +62,12 @@
 |34|<a href = "CPP/medium/firstLastPosition.cpp">Find First and Last Position of Element in Sorted Array</a>|CPP|
 |39|Combination Sum|<a href = "CPP/medium/combinationSum.cpp">CPP</a>, <a href = "Java/medium/combinationSum.java">Java</a>|
 |40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
+|45|Jump Game II|<a href = "CPP/medium/jumpGameII.cpp">CPP</a>, <a href = "Java/medium/jumpGameII.java">Java</a>|
 |46|Permutations|<a href = "CPP/medium/permutations.cpp">CPP</a>, <a href = "Java/medium/permutations.java">Java</a>|
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
+|55|Jump Game|<a href = "CPP/medium/jumpGame.cpp">CPP</a>, <a href = "Java/medium/jumpGame.java">Java</a>|
 |56|Merge Intervals|<a href = "CPP/medium/mergeIntervals.cpp">CPP</a>, <a href = "Java/medium/mergeIntervals.java">Java</a>|
 |59|<a href = "CPP/medium/spiralMatrixII.cpp">Spiral Matrix II</a>|CPP|
 |61|<a href = "CPP/medium/rotateList.cpp">Rotate List</a>|CPP|
