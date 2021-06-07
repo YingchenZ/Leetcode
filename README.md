@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|31|
-|Medium|75|
+|Medium|76|
 |Hard|5|
 
 
@@ -107,6 +107,7 @@
 |368|Largest Divisible Subset|<a href = "CPP/medium/largestDivisibleSubset.cpp">CPP</a>, <a href = "Java/medium/largestDivisibleSubset.java">Java</a>|
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
 |421|Maximum XOR of Two Numbers in an Array|<a href = "CPP/medium/maxXORInArray.cpp">CPP</a>, <a href = "Java/medium/maxXORInArray.java">Java</a>|
+|494|Target Sum|<a href = "CPP/medium/targetSum.cpp">CPP</a>, <a href = "Java/medium/targetSum.java">Java</a>|
 |516|Longest Palindromic Subsequence|<a href = "CPP/medium/longestPalindromicSubsquence.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubsquence.java">Java</a>|
 |554|Brick Wall|<a href = "CPP/medium/brickWall.cpp">CPP</a>, <a href = "Java/medium/brickWall.java">Java</a>|
 |633|Sum of Square Numbers|<a href = "CPP/medium/sumOfSquareNumber.cpp">CPP</a>, <a href = "Java/medium/sumOfSquareNumber.java">Java</a>|
