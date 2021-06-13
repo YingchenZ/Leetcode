@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|31|
+|Easy|32|
 |Medium|76|
 |Hard|5|
 
@@ -28,6 +28,7 @@
 |206|Reverse Linked List|<a href = "CPP/easy/ReverseLinkedList.cpp">CPP</a>, <a href = "Java/easy/ReverseLinkedList.java">Java</a>|
 |234|Palindrome Linked List|<a href = "CPP/easy/palindromeLinkedList.cpp">CPP</a>, <a href = "Java/easy/palindromeLinkedList.java">Java</a>|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
+|278|First Bad Version|<a href = "CPP/easy/firstBadVersion.cpp">CPP</a>, <a href = "Java/easy/firstBadVersion.java">Java</a>|
 |367|Valid Perfect Square|<a href = "CPP/easy/validPerfectSquare.cpp">CPP</a>, <a href = "Java/easy/validPerfectSquare.java">Java</a>|
 |448|<a href = "CPP/easy/FindAllNumbersDisappearedinArray.cpp">Find All Numbers Disappeared in an Array</a>|CPP|
 |690|Employee Importance|<a href = "CPP/easy/employeeImportance.cpp">CPP</a>, <a href = "Java/easy/employeeImportance.java">Java</a>|
