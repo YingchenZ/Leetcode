@@ -1,7 +1,7 @@
 # Leetcode
 | Level | Number |
 |-------|:------:|
-|Easy|32|
+|Easy|33|
 |Medium|76|
 |Hard|5|
 
@@ -22,9 +22,10 @@
 |101|<a href = "CPP/easy/symmetricTree.cpp">Symmetric Tree</a>|CPP|
 |118|<a href = "CPP/easy/PascalTriangle.cpp">Pascal's Triangle</a>|CPP|
 |119|<a href = "CPP/easy/PascalTriangleII.cpp">Pascal's Triangle II</a>|CPP|
-|190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
 |121|<a href = "CPP/easy/bestTimeBuySell.cpp">Best Time to Buy and Sell Stock</a>|CPP|
 |167|Two Sum II - Input array is sorted|<a href = "CPP/easy/twoSumII.cpp">CPP</a>, <a href = "Java/easy/twoSumII.java">Java</a>|
+|190|<a href = "CPP/easy/reverseBits.cpp">Reverse Bits</a>|CPP|
+|191|Number of 1 Bits|<a href = "CPP/easy/numOfOneBits.cpp">CPP</a>|
 |206|Reverse Linked List|<a href = "CPP/easy/ReverseLinkedList.cpp">CPP</a>, <a href = "Java/easy/ReverseLinkedList.java">Java</a>|
 |234|Palindrome Linked List|<a href = "CPP/easy/palindromeLinkedList.cpp">CPP</a>, <a href = "Java/easy/palindromeLinkedList.java">Java</a>|
 |263|Ugly Number|<a href = "CPP/easy/uglyNumber.cpp">CPP</a>, <a href = "Java/easy/uglyNumber.java">Java</a>|
