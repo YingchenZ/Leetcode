@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|33|
-|Medium|76|
+|Medium|77|
 |Hard|5|
 
 
@@ -103,6 +103,7 @@
 |220|Contains Duplicate III|<a href = "CPP/medium/containsDuplicateIII.cpp">CPP</a>|
 |230|Kth Smallest Element in a BST|<a href = "CPP/medium/kthSamllestInBST.cpp">CPP</a>, <a href = "Java/medium/kthSamllestInBST.java">Java</a>|
 |264|Ugly Number II|<a href = "CPP/medium/uglyNumberII.cpp">CPP</a>, <a href = "Java/medium/uglyNumberII.java">Java</a>|
+|274|H-Index|<a href = "CPP/medium/hIndex.cpp">CPP</a>, <a href = "Java/medium/hIndex.java">Java</a>|
 |287|Find the Duplicate Number|<a href = "CPP/medium/findDuplicateNumber.cpp">CPP</a>, <a href = "Java/medium/findDuplicateNumber.java">Java</a>|
 |300|Longest Increasing Subsequence|<a href = "CPP/medium/longestIncreasingSubsequence.cpp">CPP</a>, <a href = "Java/medium/longestIncreasingSubsequence.java">Java</a>|
 |322|Coin Change|<a href = "CPP/medium/coinChange.cpp">CPP</a>, <a href = "Java/medium/coinChange.java">Java</a>|
