@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|33|
-|Medium|77|
+|Medium|78|
 |Hard|5|
 
 
@@ -67,6 +67,7 @@
 |40|<a href = "CPP/medium/combinationSumII.cpp">Combination Sum II</a>|CPP|
 |45|Jump Game II|<a href = "CPP/medium/jumpGameII.cpp">CPP</a>, <a href = "Java/medium/jumpGameII.java">Java</a>|
 |46|Permutations|<a href = "CPP/medium/permutations.cpp">CPP</a>, <a href = "Java/medium/permutations.java">Java</a>|
+|48|Rotate Image|<a href = "CPP/medium/rotateImage.cpp">CPP</a>, <a href = "Java/medium/rotateImage.java">Java</a>|
 |49|<a href = "CPP/medium/GroupAnagrams.cpp">Group Anagrams</a>|CPP|
 |50|<a href = "CPP/medium/Problem50_PowXN.cpp">Pow(x,n)</a>|CPP|
 |54|<a href = "CPP/medium/spiralMatrix.cpp">Spiral Matrix</a>|CPP|
