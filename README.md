@@ -47,7 +47,7 @@
 ## Medium
 | Number | Title | Language |
 |--------------|------|:--------:|
-|3|Longest Substring Without Repeating Characters|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">CPP</a>, <a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.java">Java</a>|
+|3|Longest Substring Without Repeating Characters|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">CPP</a>, <a href = "Java/medium/LongestSubstringWithoutRepeatingCharacters.java">Java</a>|
 |5|Longest Palindromic Substring|<a href = "CPP/medium/longestPalindromicSubstring.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubstring.java">Java</a>|
 |6|<a href = "CPP/medium/ZigZagConversion.cpp">ZigZag Conversion</a>|CPP|
 |8|<a href = "CPP/medium/stringToInteger.cpp">String to Integer (atoi)</a>|CPP|
