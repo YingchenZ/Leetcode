@@ -2,7 +2,7 @@
 | Level | Number |
 |-------|:------:|
 |Easy|33|
-|Medium|80|
+|Medium|81|
 |Hard|5|
 
 
@@ -47,7 +47,7 @@
 ## Medium
 | Number | Title | Language |
 |--------------|------|:--------:|
-|3|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">Longest Substring Without Repeating Characters</a>|CPP|
+|3|Longest Substring Without Repeating Characters|<a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.cpp">CPP</a>, <a href = "CPP/medium/LongestSubstringWithoutRepeatingCharacters.java">Java</a>|
 |5|Longest Palindromic Substring|<a href = "CPP/medium/longestPalindromicSubstring.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubstring.java">Java</a>|
 |6|<a href = "CPP/medium/ZigZagConversion.cpp">ZigZag Conversion</a>|CPP|
 |8|<a href = "CPP/medium/stringToInteger.cpp">String to Integer (atoi)</a>|CPP|
@@ -113,6 +113,7 @@
 |368|Largest Divisible Subset|<a href = "CPP/medium/largestDivisibleSubset.cpp">CPP</a>, <a href = "Java/medium/largestDivisibleSubset.java">Java</a>|
 |377|Combination Sum IV|<a href = "CPP/medium/combinationSumIV.cpp">CPP</a>, <a href = "Java/medium/combinationSumIV.java">Java</a>|
 |421|Maximum XOR of Two Numbers in an Array|<a href = "CPP/medium/maxXORInArray.cpp">CPP</a>, <a href = "Java/medium/maxXORInArray.java">Java</a>|
+|453|Non-overlapping Intervals|<a href = "CPP/medium/nonOverlappingIntervals.cpp">CPP</a>|
 |494|Target Sum|<a href = "CPP/medium/targetSum.cpp">CPP</a>, <a href = "Java/medium/targetSum.java">Java</a>|
 |516|Longest Palindromic Subsequence|<a href = "CPP/medium/longestPalindromicSubsquence.cpp">CPP</a>, <a href = "Java/medium/longestPalindromicSubsquence.java">Java</a>|
 |554|Brick Wall|<a href = "CPP/medium/brickWall.cpp">CPP</a>, <a href = "Java/medium/brickWall.java">Java</a>|
